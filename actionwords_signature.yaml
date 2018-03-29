@@ -1,0 +1,17 @@
+---
+- name: I open
+  uid: 5bea164b-d676-4284-9892-493df2755efe
+  parameters:
+  - name: link
+  - name: webdriver
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Search for
+  uid: 3b45a4a3-414f-474b-9350-1de4716efe94
+  parameters:
+  - name: word
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Click on the first result
+  uid: 4d5af726-ff25-4177-8bf8-6332c77dc4d6
+  parameters:
+  - name: object
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
